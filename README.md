@@ -94,3 +94,5 @@ PYTHONPATH=. streamlit run src/main.py
    - 사내 수많은 문서 아카이브와 규정집을 전수 청킹 가공할 때 대형 플래그십 모델을 상시 배치하면 천문학적인 API 단가가 청구됩니다. 초고속 경량화 모델인 gpt-5.4-nano를 전처리 파서 및 가드레일 판별 레이어에 조합함으로써 파이프라인의 처리 속도(Throughput)를 극대화하고 운영 단가를 획기적으로 낮췄습니다.
 
 ## 실행 화면
+
+<img width="1591" height="599" alt="스크린샷 2026-05-28 111101" src="https://github.com/user-attachments/assets/12951fb7-ca58-4d6a-8fc3-058a95adfc2c" />
